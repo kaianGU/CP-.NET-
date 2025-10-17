@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "emdj3f72q78YVjVLD6e7pfoLYgab2aDxN1dVYOMNM8g=",
+  "Source": "HashtagApi",
+  "BasePath": "_content/HashtagApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
