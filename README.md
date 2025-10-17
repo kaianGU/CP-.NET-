@@ -44,7 +44,7 @@ Resposta esperada:
 ## Links Úteis
 
 * [Video explicativo do projeto no YouTube]()
-* [Comando Ollama Serve](https://ollama.com/docs/commands#ollama-serve)
+* [Comando Ollama Serve](https://ollama.com/)
 * [Extensão REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ---
