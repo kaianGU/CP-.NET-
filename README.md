@@ -6,7 +6,7 @@ Projeto simples de backend em **C# (ASP.NET Minimal API)** que gera hashtags aut
 
 ## Como Rodar / Testar
 
-1. Certifique-se que o Ollama está rodando com o comando: [**`ollama serve`**](https://ollama.com/docs/commands#ollama-serve).
+1. Certifique-se que o Ollama está rodando com o comando: [**`ollama serve`**]([https://ollama.com/docs/commands#ollama-serve](https://ollama.com/)).
 2. Clone ou abra o projeto no VS Code.
 3. Para testar a API, você pode usar a extensão [**REST Client**](https://marketplace.visualstudio.com/items?itemName=humao.rest-client):
 
