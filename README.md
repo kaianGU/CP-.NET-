@@ -43,7 +43,7 @@ Resposta esperada:
 
 ## Links Úteis
 
-* [Video explicativo do projeto no YouTube]()
+* [Video explicativo do projeto no YouTube](https://www.youtube.com/watch?v=JctB88Nk0cg&t=2s)
 * [Comando Ollama Serve](https://ollama.com/)
 * [Extensão REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
